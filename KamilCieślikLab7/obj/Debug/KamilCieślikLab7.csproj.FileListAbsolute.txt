@@ -97,3 +97,36 @@ D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLa
 D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.dll
 D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.pdb
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\csc.exe
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\vbc.exe
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\KamilCieślikLab7.dll.config
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\KamilCieślikLab7.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\KamilCieślikLab7.pdb
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Helpers.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Mvc.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Razor.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.Razor.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Razor.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Webpages.Razor.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Helpers.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\bin\System.Web.Mvc.xml
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.csprojResolveAssemblyReference.cache
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.dll
+D:\Projects\C#\scienceClub_simpleWebApiAngular\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.pdb

@@ -6,12 +6,10 @@
         <button type="button" class="btn btn-block col-md-9" onclick="window.location = 'http://localhost:2316/Home/Index';">Przejdź do listy studentów..</button>
         <h1>Nauczyciele:</h1>
 
-
         <div>
             <b>Włącz/wyłącz widok sortowania - </b>
-            <button class="btn btn-primary" ng-click="changeDisplay()" /> 
+            <button class="btn btn-primary" ng-click="changeDisplay()"></button>
         </div>
-        
 
         <div ng-if="display">
             <h3>Sortowanie:</h3>
@@ -57,15 +55,15 @@
         <h3>Dodaj nauczyciela:</h3>
         <form ng-submit="addTeacher(teacher)">
             <div class="col-md-3">
-                <label for="name">Imię:</label>
+                <label>Imię:</label>
                 <input type="text" name="name" ng-model="teacher.name">
             </div>
             <div class="col-md-3">
-                <label for="yearsOfExperience">Staż:</label>
+                <label>Staż:</label>
                 <input type="text" name="yearsOfExperience" ng-model="teacher.yearsOfExperience">
             </div>
             <div class="col-md-3">
-                <label for="department">Katedra:</label>
+                <label>Katedra:</label>
                 <input type="text" name="department" ng-model="teacher.department">
             </div>
             <div class="col-md-3"><input type="submit" value="Add Teacher"></div>

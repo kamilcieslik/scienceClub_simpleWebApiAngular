@@ -9,12 +9,12 @@
 
         <div>
             <b>Pokaż/ukryj oceny - </b>
-            <button class="btn btn-primary" ng-click="changeDisplay()" />
+            <button class="btn btn-primary" ng-click="changeDisplay()"></button>
         </div>
 
         <div>
             <input type="text" ng-model="query" />
-            <b><== dynamiczne wyszukiwanie</b>
+            <b>dynamiczne wyszukiwanie</b>
         </div>
 
         <div ng-repeat="Student in Students | filter: query">
