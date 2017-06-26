@@ -1,0 +1,77 @@
+﻿<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/teachers.js"></script>
+<div ng-app="mySecondApp">
+    <div ng-controller="mySecondController">
+
+        <button type="button" class="btn btn-block col-md-9" onclick="window.location = 'http://localhost:2316/Home/Index';">Przejdź do listy studentów..</button>
+        <h1>Nauczyciele:</h1>
+
+
+        <div>
+            <b>Włącz/wyłącz widok sortowania - </b>
+            <button class="btn btn-primary" ng-click="changeDisplay()" /> 
+        </div>
+        
+
+        <div ng-if="display">
+            <h3>Sortowanie:</h3>
+            <table class="Teachers">
+                <tr>
+                    <th>
+                        <button ng-click="sortBy('name')">Imię i nazwisko</button>
+                        <span class="sortorder" ng-show="propertyName === 'name'"></span>
+                    </th>
+                    <th>
+                        <button ng-click="sortBy('yearsOfExperience')">Staż</button>
+                        <span class="sortorder" ng-show="propertyName === 'yearsOfExperience'"></span>
+                    </th>
+                    <th>
+                        <button ng-click="sortBy('department')">Katedra</button>
+                        <span class="sortorder" ng-show="propertyName === 'department''"></span>
+                    </th>
+                </tr>
+                <tr ng-repeat="Teacher in Teachers">
+                    <td>{{Teacher.name}}</td>
+                    <td>{{Teacher.yearsOfExperience}}</td>
+                    <td>{{Teacher.department}}</td>
+                </tr>
+
+            </table>
+            <button ng-click="sortBy(null)">Wyświetl elementy w kolejności dodania</button>
+        </div>
+        <hr />
+        <h3>Filtrowanie po imieniu:</h3>
+        <form class="form-inline">
+            <input ng-model="query" type="text" placeholder="Podaj imię" autofocus>
+        </form>
+        <ul ng-repeat="Teacher in Teachers | filter:  {name: query} | orderBy: 'name' ">
+            <li>{{Teacher.name}}, staż: {{Teacher.yearsOfExperience}}, katedra: {{Teacher.department}}</li>
+        </ul>
+        <hr />
+
+        <h3>Starsi nauczyciele (>20 lat pracy):</h3>
+        <ul ng-repeat="Teacher in Teachers | filter: filterFunction | orderBy: 'yearsOfExperience' ">
+            <li>{{Teacher.name}}, staż: {{Teacher.yearsOfExperience}}, katedra: {{Teacher.department}}</li>
+        </ul>
+        <hr />
+        <h3>Dodaj nauczyciela:</h3>
+        <form ng-submit="addTeacher(teacher)">
+            <div class="col-md-3">
+                <label for="name">Imię:</label>
+                <input type="text" name="name" ng-model="teacher.name">
+            </div>
+            <div class="col-md-3">
+                <label for="yearsOfExperience">Staż:</label>
+                <input type="text" name="yearsOfExperience" ng-model="teacher.yearsOfExperience">
+            </div>
+            <div class="col-md-3">
+                <label for="department">Katedra:</label>
+                <input type="text" name="department" ng-model="teacher.department">
+            </div>
+            <div class="col-md-3"><input type="submit" value="Add Teacher"></div>
+        </form>
+    </div>
+</div>
+
+
+

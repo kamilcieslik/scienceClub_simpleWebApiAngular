@@ -1,0 +1,99 @@
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\csc.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\vbc.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\KamilCieślikLab7.dll.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\KamilCieślikLab7.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\KamilCieślikLab7.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Helpers.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Mvc.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Razor.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Razor.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Helpers.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\bin\System.Web.Mvc.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\csc.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\vbc.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.dll.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Helpers.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Mvc.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Razor.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Razor.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Helpers.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Mvc.xml
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.dll
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\csc.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\vbc.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.dll.config
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\KamilCieślikLab7.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Helpers.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Mvc.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Razor.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Razor.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Razor.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Deployment.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Webpages.Razor.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Helpers.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\bin\System.Web.Mvc.xml
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.dll
+D:\Visual Studio 2015\Projects\kredek\kredek\lab7\zadanie domowe\KamilCieślikLab7PD\KamilCieślikLab7\obj\Debug\KamilCieślikLab7.pdb

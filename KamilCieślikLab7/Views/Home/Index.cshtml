@@ -1,0 +1,65 @@
+﻿<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/myangular.js"></script>
+<div ng-app="myApp">
+    <div ng-controller="myController">
+        <button type="button" class="btn btn-block col-md-9" onclick="window.location = 'http://localhost:2316/Home/Teachers';">Przejdź do listy nauczycieli..</button> 
+        <h1>Studenci:</h1>
+       
+        <h2>Tabela studentów (forma z zajęć):</h2>
+
+        <div>
+            <b>Pokaż/ukryj oceny - </b>
+            <button class="btn btn-primary" ng-click="changeDisplay()" />
+        </div>
+
+        <div>
+            <input type="text" ng-model="query" />
+            <b><== dynamiczne wyszukiwanie</b>
+        </div>
+
+        <div ng-repeat="Student in Students | filter: query">
+            <div class="btn btn-danger">
+                <p>Name: {{Student.name}}</p>
+                <p>Ects: {{Student.ects | currency: 'Ł' }}</p>
+                <p>Dziekanka: {{Student.isBreak}}</p>
+                <p>Kierunek studiów: {{Student.fieldOfStudy}}</p>
+                <span ng-if="display">Oceny:</span>
+                <div ng-repeat="Grade in Student.gradeList | filter: query" ng-if="display">
+                    <p>{{Grade}}</p>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <h2>Tabela studentów ver. 2:</h2>
+        <table class="Students">
+            <tr>
+                <th>
+                    <label>IMIĘ I NAZWISKO</label>
+                </th>
+                <th>
+                    <label>ECTS</label>
+                </th>
+                <th>
+                    <label>DZIEKANKA</label>
+                </th>
+                <th>
+                    <label>KIERUNEK STUDIÓW</label>
+                </th>
+            </tr>
+            <tr ng-repeat="Student in Students">
+                <td>{{Student.name}}</td>
+                <td>{{Student.ects}}</td>
+                <td>{{Student.isBreak}}</td>
+                <td>{{Student.fieldOfStudy}}</td>
+            </tr>
+        </table>
+        <hr />
+
+        <h2>Tabela ocen:</h2>
+        <div ng-repeat="Student in Students | filter: query">
+            <div class="btn btn-default">
+                <p >{{Student.name }}: {{Student.gradeList}}</p>
+            </div>
+        </div>
+    </div>
+</div>
